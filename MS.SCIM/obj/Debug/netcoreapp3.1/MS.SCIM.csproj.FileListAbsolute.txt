@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\netcoreapp3.1\MS.SCIM.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\netcoreapp3.1\MS.SCIM.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\netcoreapp3.1\MS.SCIM.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\netcoreapp3.1\MS.SCIM.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\bin\Debug\netcoreapp3.1\MS.SCIM.deps.json
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\bin\Debug\netcoreapp3.1\MS.SCIM.dll
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\bin\Debug\netcoreapp3.1\MS.SCIM.pdb
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\netcoreapp3.1\MS.SCIM.dll
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\netcoreapp3.1\MS.SCIM.pdb

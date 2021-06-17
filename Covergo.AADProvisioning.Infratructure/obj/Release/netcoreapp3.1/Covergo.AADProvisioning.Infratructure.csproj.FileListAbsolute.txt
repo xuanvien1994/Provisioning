@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\bin\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.deps.json
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\bin\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.dll
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\bin\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.pdb
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\bin\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.dll
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\bin\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.pdb
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.csproj.CopyComplete
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.dll
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Infratructure\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Infratructure.pdb

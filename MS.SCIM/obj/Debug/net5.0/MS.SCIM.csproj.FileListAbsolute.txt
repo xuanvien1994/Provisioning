@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\net5.0\MS.SCIM.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\net5.0\MS.SCIM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\net5.0\MS.SCIM.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\net5.0\MS.SCIM.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\MS.SCIM\obj\Debug\net5.0\MS.SCIM.csproj.CoreCompileInputs.cache

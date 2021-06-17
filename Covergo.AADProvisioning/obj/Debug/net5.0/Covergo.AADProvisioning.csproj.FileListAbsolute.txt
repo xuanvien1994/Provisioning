@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning\obj\Debug\net5.0\Covergo.AADProvisioning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning\obj\Debug\net5.0\Covergo.AADProvisioning.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning\obj\Debug\net5.0\Covergo.AADProvisioning.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning\obj\Debug\net5.0\Covergo.AADProvisioning.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning\obj\Debug\net5.0\Covergo.AADProvisioning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning\obj\Debug\net5.0\Covergo.AADProvisioning.csproj.AssemblyReference.cache

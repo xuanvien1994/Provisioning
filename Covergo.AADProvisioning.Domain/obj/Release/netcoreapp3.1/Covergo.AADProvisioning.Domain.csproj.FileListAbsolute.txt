@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Domain\bin\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.deps.json
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Domain\bin\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.dll
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Domain\bin\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.pdb
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Domain\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Domain\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Domain\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Domain\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Domain\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.dll
+C:\Users\Admin\source\repos\Covergo.AADProvisioning\Covergo.AADProvisioning.Domain\obj\Release\netcoreapp3.1\Covergo.AADProvisioning.Domain.pdb
